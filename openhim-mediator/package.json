@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mysql": "^2.18.1",
     "openhim-mediator-utils": "^0.2.3",
     "path": "^0.12.7",
