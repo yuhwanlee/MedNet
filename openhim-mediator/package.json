@@ -4,7 +4,7 @@
   "description": "Pulls provider phone numbers from OpenInfoMan and adds them to a database",
   "dependencies": {
     "array-unique": "^0.3.2",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "fs": "0.0.1-security",
